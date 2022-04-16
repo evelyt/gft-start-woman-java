@@ -9,8 +9,6 @@ public class PrimeiroPrograma {
 		Gato gato = new Gato();
 		
 		gato.setNome("Mel");
-		gato.setCor("Marrom");
-		gato.setIdade(3);
 		
 		System.out.println(gato);
 		/*
